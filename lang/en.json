@@ -1,0 +1,56 @@
+{
+    "MENU": {
+        "FEATURES": "Features",
+        "ABOUT": "About",
+        "DOWNLOAD": "Download"
+    },
+    "INTRO": {
+        "HEADLINE": "MyETPWallet",
+        "TEXT": "The Metaverse Blockchain lightwallet. Use the Metaverse infrastructure to easily create a digital identity (Avatar) and register your own tokens on the Blockchain.",
+        "ENTER_WALLET": "Enter Wallet"
+    },
+    "GET_IT": {
+        "HEADLINE": "Get the Wallet",
+        "TEXT": "Get the wallet for your device and enter the Metaverse today",
+        "OPEN_IN_BROWSER": "Open in browser",
+        "DOWNLOAD_APK": "Download apk"
+    },
+    "FEATURES": {
+        "HEADLINE": "Features",
+        "TEXT": "With the latest supernova upgrade we were able to activate new functions.",
+        "DIGITAL_IDENTITY": "Digital Identity",
+        "DIGITAL_IDENTITY_TEXT": "Create your own avatar. You can also use it for decentralized authentication with 3rd parties.",
+        "MIT": "IDENTIFIABLE TOKEN",
+        "MIT_TEXT": "Create your own MIT as a single entity record on the Metaverse Blockchain. You can freely exchange it with other avatars.",
+        "CERTIFICATES": "Certificates",
+        "CERTIFICATES_TEXT": "Let your avatar register certificates for MST symbols and domains.",
+        "MST": "Smart Tokens",
+        "MST_TEXT": "You can easily register your own MST (Metaverse Smart Token) on the Blockchain.",
+        "ETP_DEPOSIT": "ETP Deposit",
+        "ETP_DEPOSIT_TEXT": "Lock your ETP for a number of blocks and earn interest.",
+        "ETP_MULTISIG": "Multisig",
+        "ETP_MULTISIG_TEXT": "Create multisignature addresses to send and receive ETP and MST. Easy access to enterprise grade technology.",
+        "MULTILANGUAGE": "Multilanguage",
+        "MULTILANGUAGE_TEXT": "The wallet supports various languages. We are always happy about new translation. Please contact us if you want to support."
+    },
+    "OPENSOURCE": {
+        "HEADLINE": "How do you like your lightwallet?"
+    },
+    "ABOUT": {
+        "HEADLINE": "About",
+        "OPENSOURCE": "Opensource",
+        "OPENSOURCE_TEXT": "The lightwallet is 100% opensource. We need every helping hand. Please contact us if you want to join our awesome community.",
+        "SECURITY": "Security",
+        "SECURITY_TEXT": "The private keys will only be stored on your own device. All transactions are signed locally.",
+        "SPEED": "SPEED",
+        "SPEED_TEXT": "Without having to download the whole blockchain your wallet will be ready within the blink of an eye.",
+        "MOBILE_APPS": "Mobile Apps",
+        "MOBILE_APPS_TEXT": "You can use the browser version but we also have official mobile apps for Android and iOS."
+    },
+    "FOOTER": {
+        "TEXT": "Metaverse Foundation aims to maintain the normal operation of Metaverse Blockchain and build a complete and affluent Metaverse Blockchain Ecosystem. The Foundation’s investment and guidance is based on the development of all industrial links derived from the Metaverse Blockchain.",
+        "CONTACT_US": "Contact us",
+        "HELP_TEXT": "For help please report an issue on GitHub. You can also contact us via the following channels:",
+        "COPYRIGHT": "Copyright {{year}} Metaverse Foundation. All Rights Reserved."
+    }
+}
